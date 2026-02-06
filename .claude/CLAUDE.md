@@ -1,7 +1,7 @@
 # Generative Models via Drifting Models in MLX
-paper: https://arxiv.org/html/2602.04770
-mlx: https://github.com/ml-explore/mlx
-mlx-docs: https://ml-explore.github.io/mlx/build/html/index.html
+- paper: https://arxiv.org/html/2602.04770
+- mlx: https://github.com/ml-explore/mlx
+- mlx-docs: https://ml-explore.github.io/mlx/build/html/index.html
 
 A generator is trained to output samples that are already at equilibrium under a drift field. Sampling requires only one forward pass.
 

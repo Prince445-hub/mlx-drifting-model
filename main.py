@@ -216,23 +216,14 @@ def _plot_figure(loss_history, target, snapshots, path):
 
     for i, (step, pts, color, title) in enumerate(panels):
         ax = fig.add_subplot(gs[1, i])
-        ax.scatter(
-            pts[:, 0],
-            pts[:, 1],
-            c=color,
-            s=0.6,
-            alpha=0.4,
-            edgecolors="none",
-            rasterized=True,
-        )
+        ax.scatter(pts[:, 0], pts[:, 1], c=color, s=0.6, alpha=0.4)
         ax.set(xlim=lim, ylim=lim, aspect="equal", title=title)
         ax.axis("off")
 
-        # only draw arrows for snapshot panels (step is not None)
         if step is not None:
             con = ConnectionPatch(
-                xyA=(step, y0),  # (x=step) on bottom of loss plot
-                xyB=(0.5, 1.18),  # top-center of scatter axes
+                xyA=(step, y0),
+                xyB=(0.5, 1.18),
                 coordsA="data",
                 coordsB="axes fraction",
                 axesA=ax_loss,
@@ -241,7 +232,7 @@ def _plot_figure(loss_history, target, snapshots, path):
                 lw=1,
                 color="tab:blue",
                 alpha=1,
-                clip_on=False,  # helps prevent arrow clipping
+                clip_on=False,
             )
             ax_loss.axvline(step, color="tab:blue", lw=1, alpha=1)
             fig.add_artist(con)

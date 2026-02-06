@@ -1,8 +1,6 @@
-# Drifting Model in MLX
+# Drifiting Models in MLX
 
-One-pass generative sampling via contrastive mean-shift drift fields.
-
-Based on [Generative Models via Drifting Diffusion](https://arxiv.org/abs/2602.04770).
+A generative model that evolves the pushforward distribution during training for single-step inference implemented in [MLX](https://github.com/ml-explore/mlx). Based on [Generative Models via Drifting](https://arxiv.org/abs/2602.04770).
 
 ![Swiss Roll](media/swiss_roll-figure.png)
 
